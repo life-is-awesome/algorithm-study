@@ -2,9 +2,7 @@
 
 > 주니어 개발자들이 더 나은 개발자로 성장하기 위해 알고리즘 문제를 풀고 해결한 내용을 정리하여 공유하는 저장소입니다.
 
-<br>
-
-## ⚙️Repository Structure
+## ⚙️ Repository Structure
 
 ```
 [[ Repository Structure ]]
@@ -21,9 +19,7 @@ algorithm-study
 └── README.MD # 각 알고리즘 별 링크
 ```
 
-<br>
-
-## 🚦Rule
+## 🚦 Rule
 
 **규칙**
 
@@ -37,9 +33,23 @@ algorithm-study
       - `풀이 시간`, `문제`, `시간복잡도`, `풀이설명` 등 간략한 내용을 주석으로 정리한다.
     - **README.md** 에 알고리즘 이론 정리 + 풀이 문제 링크를 작성한다.
 
-<br>
+## 📌 Category
 
-## 📌Category
+### Data Structures
 
-- 
+- Array
+- Linked List
+- Stack
+- Queue
+- Heap
+- Graph
+- Tree
 
+### Algorithms
+
+- Sorting
+- Search
+- Graph Theory (DFS/BFS)
+- Dynamic Programming
+- Greedy
+- Bit Manipulation

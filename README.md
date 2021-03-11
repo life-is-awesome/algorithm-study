@@ -39,7 +39,7 @@ algorithm-study
 
 - Array
 - Linked List
-- Stack
+- [Stack](https://github.com/life-is-awesome/algorithm-study/tree/main/stack)
 - Queue
 - Heap
 - Graph

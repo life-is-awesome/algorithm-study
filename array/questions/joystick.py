@@ -1,6 +1,6 @@
 '''
 풀이 시간: X
-문제: https://programmers.co.kr/learn/courses/30/lessons/42860#
+문제: https://programmers.co.kr/learn/courses/30/lessons/42860
 시간 복잡도: O(n)
 풀이 설명:
 1 번 순회하면서 필요한 정보들을 업데이트 한다.

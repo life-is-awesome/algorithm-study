@@ -4,3 +4,4 @@
 |-------|----|-------|------|
 |조이스틱|Bab|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42860)|[Solution](https://github.com/life-is-awesome/algorithm-study/blob/main/array/questions/joystick.py)|
 |삼각 달팽이|Bab|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/68645)|[Solution](https://github.com/life-is-awesome/algorithm-study/blob/main/array/questions/tri-snail.py)|
+|스킬 트리|Bab|[프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/49993)|[Sol1](https://github.com/life-is-awesome/algorithm-study/blob/main/array/questions/skill-trees-1.py), [Sol2](https://github.com/life-is-awesome/algorithm-study/blob/main/array/questions/skill-trees-2.py)|

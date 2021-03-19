@@ -21,23 +21,19 @@ algorithm-study
 
 ## 🚦 Rule
 
-**규칙**
-
-- 
-
 **정리 방법**
 
-- 알고리즘별로 디렉토리를 생성한다.
-  - 해당 디렉토리 내에 **README.md** 파일과 문제 폴더를 생성한다.
-    - 문제 폴더에는 문제를 푼 코드 파일을 업로드한다.
-      - `풀이 시간`, `문제`, `시간복잡도`, `풀이설명` 등 간략한 내용을 주석으로 정리한다.
-    - **README.md** 에 알고리즘 이론 정리 + 풀이 문제 링크를 작성한다.
+- 알고리즘별로 디렉토리를 생성합니다.
+  - 해당 디렉토리 내에 **README.md** 파일과 문제 폴더를 생성합니다.
+    - 문제 폴더에는 문제를 푼 코드 파일을 업로드합니다.
+      - `풀이 시간`, `문제`, `시간복잡도`, `풀이설명` 등 간략한 내용을 주석으로 정리합니다.
+    - **README.md** 에 알고리즘 이론 정리 + 풀이 문제 링크를 작성합니다.
 
 ## 📌 Category
 
 ### Data Structures
 
-- Array
+- [Array](https://github.com/life-is-awesome/algorithm-study/tree/main/array)
 - Linked List
 - [Stack](https://github.com/life-is-awesome/algorithm-study/tree/main/stack)
 - Queue
@@ -47,9 +43,9 @@ algorithm-study
 
 ### Algorithms
 
-- Sorting
+- [Sorting](https://github.com/life-is-awesome/algorithm-study/tree/main/sort)
 - Search
 - Graph Theory (DFS/BFS)
 - Dynamic Programming
-- Greedy
+- [Greedy]()
 - Bit Manipulation

@@ -47,5 +47,5 @@ algorithm-study
 - Search
 - Graph Theory (DFS/BFS)
 - Dynamic Programming
-- [Greedy]()
+- [Greedy](https://github.com/life-is-awesome/algorithm-study/tree/main/greedy)
 - Bit Manipulation

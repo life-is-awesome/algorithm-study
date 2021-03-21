@@ -37,7 +37,7 @@ algorithm-study
 - Linked List
 - [Stack](https://github.com/life-is-awesome/algorithm-study/tree/main/stack)
 - Queue
-- Heap
+- [Heap](https://github.com/life-is-awesome/algorithm-study/tree/main/heap)
 - Graph
 - Tree
 
